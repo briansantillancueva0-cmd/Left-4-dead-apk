@@ -1,0 +1,6 @@
+{
+  "name": "Left 4 Dead 360",
+  "description": "Emulador y experiencia Left 4 Dead estilo Xbox 360 en Android con controles táctiles configurables, dashboard Xbox y juego de supervivencia zombie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
